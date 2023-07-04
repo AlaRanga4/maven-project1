@@ -37,7 +37,7 @@ height:400px;
 <br>
 <h2>Contact us:-</h2>
 
-<h2>Rangaswamy janasena karyakarta </h2>
+<h2>Rangaswamy here </h2>
 <h2>+91-8383917484</h2>
 
 </div>
